@@ -1,5 +1,5 @@
 # Fourier-and-Hartley-transforms-for-embedded-applications
-Códigos utilizados para meu TCC, Engenharia mecatrônica, Unifran, 2016.
+Códigos utilizados em TCC, Desempenho comparativo entre FFT e FHT no ESP8266, Analisador de vibrações mecânicas baseado no acelerômetro MPU6050 e ESP8266, Engenharia mecatrônica, Unifran, 2016.
 * Segue a descrição dos diretórios contidos neste repositório:
 * [Dev_cpp](https://github.com/JunioCesarFerreira/Fourier-and-Hartley-transforms-for-embedded-applications/tree/master/Dev_cpp): 
 Códigos para transformadas discretas e dos algoritmos Cooley-Tukey Radix-2 para as transformadas rápidas de Fourier e de Hartley, este é um arquivo interessante para quem está procurando compreender o funcionamento destes algoritmos. Desenvolvido em linguagem C no DEV-CPP.
